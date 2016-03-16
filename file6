@@ -1,0 +1,28 @@
+
+vertices A B C D E F G H I
+
+edges
+H C
+D B
+E F
+C A
+E D
+A E
+D I
+B C
+C E
+G F
+F A
+I E 
+G C
+B E
+H B
+G D
+H I
+E G
+A H
+G H
+I B
+D H
+C F
+H E
